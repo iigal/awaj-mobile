@@ -1,1 +1,1 @@
-Mobile app for the App for connecting MP with the people.
+Mobile app for connecting MP with the people. The initiation done by MP Pradip Paudel.
